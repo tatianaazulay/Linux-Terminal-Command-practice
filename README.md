@@ -18,7 +18,7 @@ The following sequential commands were used to write the result to a text file:
 
 2. Download a zip file from MovieLens (https://grouplens.org/datasets/movielens/latest/) using the command line interface (CLI) such as curl or wget and unzip the .zip file. It would be okay to choose the smallest (recent data) dataset.
 
-Please see <b>log5-2.txt</b>
+<i>Please see</i> <b>log5-2.txt</b>
 
 Commands used: 
 
@@ -29,7 +29,7 @@ Commands used:
 
 3. Preview the first 12 lines of the movies.csv file and the last 4 lines of that same csv file.
 
-Please see <b>log5-3.txt</b>
+<i>Please see</i><b>log5-3.txt</b>
 
 Commands used: 
 
