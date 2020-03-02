@@ -4,6 +4,9 @@ Description
 
 Please see <b>log5-1.txt</b>
 
+Input: chart.csv
+Output: output.txt
+
 The following sequential commands were used to preview the filtered and sorted result with no duplicates:
 
 awk -F , '{print $3}' chart.csv | head -n1; awk -F , '{print $3}' chart.csv | tail -n+2 | sort -u
@@ -14,4 +17,16 @@ The following sequential commands were used to write the result to a text file:
 
 
 2. Download a zip file from MovieLens (https://grouplens.org/datasets/movielens/latest/) using the command line interface (CLI) such as curl or wget and unzip the .zip file. It would be okay to choose the smallest (recent data) dataset.
+
+Please see <b>log5-2.txt</b>
+
+Commands used: curl -O http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+unzip ml-latest-small.zip
+
+
 3. Preview the first 12 lines of the movies.csv file and the last 4 lines of that same csv file.
+
+Please see <b>log5-3.txt</b>
+
+Commands used: cat movies.csv | head -n12; cat movies.csv | tail -n4
+
