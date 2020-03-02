@@ -2,7 +2,7 @@
 Description
 1. Filter 1 column from a CSV file. Extract out the artist names from the CSV file that can be downloaded from the Spotify Charts website (https://spotifycharts.com/regional). Ensure that the artist names are unique and sorted. Retain the header as the top of the file.
 
-Please see <b>log5-1.txt</b>
+<u>Please see <b>log5-1.txt</b></u>
 
 Input: chart.csv
 Output: output.txt
