@@ -20,8 +20,8 @@ The following sequential commands were used to write the result to a text file:
 
 Please see <b>log5-2.txt</b>
 
-Commands used: <b>curl -O http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
-unzip ml-latest-small.zip</b>
+Commands used: <b>curl -O http://files.grouplens.org/datasets/movielens/ml-latest-small.zip</b>
+<b>unzip ml-latest-small.zip</b>
 
 
 3. Preview the first 12 lines of the movies.csv file and the last 4 lines of that same csv file.
