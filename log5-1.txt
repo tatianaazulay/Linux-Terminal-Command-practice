@@ -1,0 +1,110 @@
+Script started on 2020-03-02 01:34:42-0500
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;tatiana@tatiana-VirtualBox: ~/Documents/assignment5/1[01;32mtatiana@tatiana-VirtualBox[00m:[01;34m~/Documents/assignment5/1[00m$ (awk -F , '{print $3}' chart.csv | head -n1; awk -F , '{print $3}' chart.csv | tail -n+2 \[K| sort -u) >output.txt
+]0;tatiana@tatiana-VirtualBox: ~/Documents/assignment5/1[01;32mtatiana@tatiana-VirtualBox[00m:[01;34m~/Documents/assignment5/1[00m$ awk -F , '{print $3}' chart.csv | head -n1; awl[Kk -F , '{print $3}' chart.csv | tail -n+2 | sort -u
+Artist
+24kGoldn
+A Boogie Wit da Hoodie
+Ali Gatie
+Ariana Grande
+Arizona Zervas
+Ashe
+Baby Keem
+Bad Bunny
+benny blanco
+Billie Eilish
+blackbear
+Black Eyed Peas
+Brent Faiyaz
+BROCKHAMPTON
+BTS
+Camila Cabello
+Chris Brown
+Conan Gray
+DaBaby
+Dan + Shay
+Diplo
+Doja Cat
+Don Toliver
+Drake
+Dua Lipa
+Ed Sheeran
+Ellie Goulding
+Eminem
+Flipp Dinero
+Future
+Gabby Barrett
+G-Eazy
+G Herbo
+Halsey
+Harry Styles
+JACKBOYS
+Jack Harlow
+J Balvin
+J. Cole
+Jeremy Zucker
+Jhay Cortez
+Joji
+Jonas Brothers
+JP Saxe
+Juice WRLD
+Justin Bieber
+KAROL G
+K CAMP
+Khalid
+Lady Gaga
+Lauv
+Lewis Capaldi
+Lil Baby
+Lil Mosey
+Lil Nas X
+Lil Tecca
+Lil Tjay
+Lil Uzi Vert
+Lizzo
+Luke Combs
+Mac Miller
+Maroon 5
+Marshmello
+MEDUZA
+Meek Mill
+Morgan Wallen
+Mustard
+NLE Choppa
+Noah Cyrus
+Old Dominion
+Olivia Rodrigo
+Polo G
+Pop Smoke
+Post Malone
+Powfu
+Quality Control
+Roddy Ricch
+Rod Wave
+SAINt JHN
+Sam Smith
+Selena Gomez
+Shawn Mendes
+Surfaces
+Swae Lee
+SZA
+Tame Impala
+Taylor Swift
+The Weeknd
+TOKYO’S REVENGE
+Tones and I
+Travis Scott
+Trevor Daniel
+Trippie Redd
+Tyler The Creator
+XXXTENTACION
+Y2K
+YNW Melly
+YoungBoy Never Broke Again
+Young Thug
+]0;tatiana@tatiana-VirtualBox: ~/Documents/assignment5/1[01;32mtatiana@tatiana-VirtualBox[00m:[01;34m~/Documents/assignment5/1[00m$ exit
+exit
+
+Script done on 2020-03-02 01:37:19-0500

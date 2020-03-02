@@ -1,0 +1,17 @@
+Script started on 2020-03-02 02:48:59-0500
+]0;tatiana@tatiana-VirtualBox: ~/Documents/assignment5/3[01;32mtatiana@tatiana-VirtualBox[00m:[01;34m~/Documents/assignment5/3[00m$ curl -O http://files.groupllens.org/datasets/movielens/ml-latest-small.zip
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  955k  100  955k    0     0  2296k      0 --:--:-- --:--:-- --:--:-- 2296k
+]0;tatiana@tatiana-VirtualBox: ~/Documents/assignment5/3[01;32mtatiana@tatiana-VirtualBox[00m:[01;34m~/Documents/assignment5/3[00m$ unzip ml-latest-small.zip
+Archive:  ml-latest-small.zip
+   creating: ml-latest-small/
+  inflating: ml-latest-small/links.csv  
+  inflating: ml-latest-small/tags.csv  
+  inflating: ml-latest-small/ratings.csv  
+  inflating: ml-latest-small/README.txt  
+  inflating: ml-latest-small/movies.csv  
+]0;tatiana@tatiana-VirtualBox: ~/Documents/assignment5/3[01;32mtatiana@tatiana-VirtualBox[00m:[01;34m~/Documents/assignment5/3[00m$ exit
+exit
+
+Script done on 2020-03-02 02:49:54-0500
