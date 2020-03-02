@@ -21,6 +21,7 @@ The following sequential commands were used to write the result to a text file:
 Please see <b>log5-2.txt</b>
 
 Commands used: <b>curl -O http://files.grouplens.org/datasets/movielens/ml-latest-small.zip</b>
+
 <b>unzip ml-latest-small.zip</b>
 
 
