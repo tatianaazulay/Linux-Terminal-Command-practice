@@ -29,7 +29,7 @@ Commands used:
 
 3. Preview the first 12 lines of the movies.csv file and the last 4 lines of that same csv file.
 
-<i>Please see</i><b>log5-3.txt</b>
+<i>Please see</i> <b>log5-3.txt</b>
 
 Commands used: 
 
